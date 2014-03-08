@@ -1,0 +1,1 @@
+greet "Sweet.js"
